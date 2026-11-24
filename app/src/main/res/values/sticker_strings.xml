@@ -1,0 +1,18 @@
+<resources>
+    <string name="stickers_title">Stickers</string>
+    <string name="stickers_emoji">Emoji</string>
+    <string name="stickers_open">Emoji and stickers</string>
+    <string name="stickers_back">Back</string>
+    <string name="stickers_close">Close</string>
+    <string name="stickers_send">Send sticker</string>
+    <string name="stickers_sending">Sending…</string>
+    <string name="stickers_add">Add pack</string>
+    <string name="stickers_added">Added</string>
+    <string name="stickers_select">Select sticker %1$s</string>
+    <string name="stickers_insert_emoji">Insert emoji %1$s</string>
+    <string name="stickers_recent">Recent</string>
+    <string name="stickers_favorite">Favorites</string>
+    <string name="stickers_packs">Sticker packs</string>
+    <string name="stickers_empty">No packs yet. Tap a sticker in a chat to view and add its pack.</string>
+    <string name="stickers_timeout">Loading timed out. Please retry.</string>
+</resources>

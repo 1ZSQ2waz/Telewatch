@@ -1,0 +1,7 @@
+api_id=YOU_API_ID
+api_hash=YOU_API_HASH
+BUILD_DATE=2024
+BETA=false
+# Optional. The crash reporter stays disabled when either value is empty.
+acra_basic_auth_login=YOU_ACRA_LOGIN
+acra_basic_auth_password=YOU_ACRA_PASSWORD

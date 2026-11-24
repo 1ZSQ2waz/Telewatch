@@ -1,0 +1,19 @@
+plugins {
+    id 'java-library'
+}
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+}
+
+dependencies {
+    implementation 'com.neovisionaries:nv-websocket-client:2.14'
+    testImplementation 'junit:junit:4.13.2'
+}
+
+tasks.named('processResources') {
+    from(['LICENSE-2.0.txt', 'NOTICE.txt', 'README.txt']) {
+        into 'META-INF/tcp2ws'
+    }
+}

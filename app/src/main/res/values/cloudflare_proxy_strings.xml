@@ -1,0 +1,8 @@
+<resources>
+    <string name="cloudflare_proxy_name" translatable="false">Cloudflare Worker Proxy</string>
+    <string name="cloudflare_proxy_enabled">Use proxy</string>
+    <string name="cloudflare_worker_endpoint">Worker HTTPS URL</string>
+    <string name="cloudflare_worker_secret">Worker SECRET</string>
+    <string name="cloudflare_proxy_applying">Applying…</string>
+    <string name="cloudflare_proxy_failed">Could not apply the proxy. Check the Worker HTTPS URL and SECRET.</string>
+</resources>

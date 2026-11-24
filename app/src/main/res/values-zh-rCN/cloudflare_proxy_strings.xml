@@ -1,0 +1,7 @@
+<resources>
+    <string name="cloudflare_proxy_enabled">启用代理</string>
+    <string name="cloudflare_worker_endpoint">Worker HTTPS 地址</string>
+    <string name="cloudflare_worker_secret">Worker 密钥 SECRET</string>
+    <string name="cloudflare_proxy_applying">正在应用…</string>
+    <string name="cloudflare_proxy_failed">无法应用代理，请检查 Worker 的 HTTPS 地址和 SECRET。</string>
+</resources>
